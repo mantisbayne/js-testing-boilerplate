@@ -1,0 +1,23 @@
+{
+  "name": "js-testing-boilerplate",
+  "version": "1.0.0",
+  "description": "A JS Testing Framework boilerplate",
+  "main": "index.js",
+  "dependencies": {
+    "nightwatch": "^0.8.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "./nightwatch --group tests/functional"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mantisbayne/js-testing-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mantisbayne/js-testing-boilerplate/issues"
+  },
+  "homepage": "https://github.com/mantisbayne/js-testing-boilerplate#readme"
+}
