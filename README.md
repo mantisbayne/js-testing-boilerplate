@@ -5,3 +5,4 @@ A JS Testing Framework boilerplate for functional testing, to make creating test
 1. Install [Homebrew](http://brew.sh/)
 2. In terminal, install node and npm 'brew install node'
 3. Install [Selenium Server Standalone](http://www.seleniumhq.org/download/) and Chromedriver 'brew install chromedriver' for running locally
+4. Install node_modules by making sure package.json is correct and running 'npm install'

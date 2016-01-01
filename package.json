@@ -6,7 +6,10 @@
   "dependencies": {
     "nightwatch": "^0.8.12"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "nightwatch": "^0.8.13"
+  },
   "scripts": {
     "test": "./nightwatch --group tests/functional"
   },
